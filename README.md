@@ -1,2 +1,5 @@
 # first-godot-game
-My first Godot Game (: 
+Our first Godot game!
+
+Names:
+Lucas Lima Duarte
